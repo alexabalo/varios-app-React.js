@@ -1,0 +1,25 @@
+/*.................reloj...........................*/
+
+.centro1{
+    width: 200px;
+    height: 200px;
+    background: rgb(129, 129, 129);
+    margin: auto;
+    text-align: center;
+    font-size: 50px;
+    border-radius: 50%;
+    padding-top: 55px;
+}
+
+.titulo1{
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    color: rgb(0, 0, 0);
+}
+
+.fondo1{
+    background: lightblue;
+    width: 100vw;
+    height: 70vh;
+}
